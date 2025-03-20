@@ -1,1 +1,1 @@
-# OOP-in-C-LAB
+# OOP-LAB
